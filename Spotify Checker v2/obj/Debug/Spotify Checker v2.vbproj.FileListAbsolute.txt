@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\bin\Debug\Spotify Checker v2.exe.config
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\bin\Debug\Spotify Checker v2.exe
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\bin\Debug\Spotify Checker v2.pdb
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\bin\Debug\Spotify Checker v2.xml
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\bin\Debug\Extreme.Net.dll
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify_Checker_v2.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify_Checker_v2.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify Checker v2.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify Checker v2.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify Checker v2.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify Checker v2.exe
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify Checker v2.xml
+D:\AW 17\Source Code Visual Studio 19\Spotify Checker v2\Spotify Checker v2\obj\Debug\Spotify Checker v2.pdb
