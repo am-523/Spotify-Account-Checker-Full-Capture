@@ -1,4 +1,7 @@
 # Spotify-Account-Checker-Full-Capture
+
+Download Debug- Relase : https://github.com/am-523/Spotify-Account-Checker-Full-Capture/releases/tag/2.0
+
 Spotify Account Checker
 
 ##ScreenShot
